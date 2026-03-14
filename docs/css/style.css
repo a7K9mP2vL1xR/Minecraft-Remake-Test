@@ -1,0 +1,15 @@
+body{
+
+    font-family:sans-serif;
+    text-align:center;
+    margin-top:120px;
+
+}
+
+button{
+
+    padding:14px 30px;
+    font-size:20px;
+    cursor:pointer;
+
+}
